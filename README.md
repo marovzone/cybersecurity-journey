@@ -40,11 +40,12 @@ path-to-cybersecurity/
 
 
 Here I consistently record:
-	•	professional experience
-	•	technical observations
-	•	mistakes and lessons learned
-	•	stages of growth
-	•	the transition from web development and system administration to cybersecurity
+
+- professional experience
+- technical observations
+- mistakes and lessons learned
+- stages of growth
+- the transition from web development and system administration to cybersecurity
 
 This is not a textbook or a collection of tutorials.
 It is a living technical diary focused on thinking, systems, and real-world practice.
