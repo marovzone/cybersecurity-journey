@@ -1,2 +1,36 @@
-# cybersecurity-journey
-A documented personal journey from system administration and web development to cybersecurity.
+# Path to Cybersecurity
+
+> English version is available below ↓
+
+## О репозитории
+
+Этот репозиторий — **документированный личный путь в кибербезопасность**.
+
+Здесь я последовательно фиксирую:
+- профессиональный опыт
+- технические наблюдения
+- ошибки и выводы
+- этапы роста
+- переход от разработки и системного администрирования к кибербезопасности
+
+Это **не учебник** и не набор туториалов.  
+Это **живой технический дневник** с акцентом на мышление, системы и практику.
+
+---
+
+## Структура репозитория
+
+```text
+path-to-cybersecurity/
+├── README.md
+├── 0.0.0-hello-world.md
+├── RU/
+│   ├── system-administration/
+│   ├── web-development/
+│   ├── cybersecurity/
+│   └── notes/
+├── EN/
+│   ├── system-administration/
+│   ├── web-development/
+│   ├── cybersecurity/
+│   └── notes/
